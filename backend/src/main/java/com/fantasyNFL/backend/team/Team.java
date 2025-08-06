@@ -1,7 +1,6 @@
 package com.fantasyNFL.backend.team;
 
 import jakarta.persistence.*;
-import java.util.*;
 
 @Entity // this is a database table
 @Table(name="teams") 
